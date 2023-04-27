@@ -3,6 +3,7 @@
 ### UI website :  https://subscribe.jawwy.tv/eg-en
 
 This Repo Has10 Test Cases for Jawwy Egypt  subscription Plans , prices and currency.
+The Test are run on Chrome in Headless mode
 
 The Test cases are : 
 Test Trial section and that the price is in EGY
@@ -32,7 +33,7 @@ Test the currency of the premium plan
  
 **Run from intellij IDE**
 1. open project in intellij ID
-2. run testng.xml file
+2. run JawwyEgyTest.java in src\test\java file
 
 
 **CircleCI**
