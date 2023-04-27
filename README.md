@@ -6,16 +6,16 @@ This Repo Has10 Test Cases for Jawwy Egypt  subscription Plans , prices and curr
 The Test are run on Chrome in Headless mode
 
 The Test cases are : 
-Test Trial section and that the price is in EGY
-Test That the lite plan is displayed 
-Test the cost of the lite plan 
-Test the currency of the lite plan
-Test That the classic plan is displayed 
-Test the cost of the classic plan 
-Test the currency of the classic plan
-Test That the premium plan is displayed 
-Test the cost of the premium plan 
-Test the currency of the premium plan
+1. Test Trial section and that the price is in EGY
+2. Test That the lite plan is displayed 
+3. Test the cost of the lite plan 
+4. Test the currency of the lite plan
+5. Test That the classic plan is displayed 
+6. Test the cost of the classic plan 
+7. Test the currency of the classic plan
+8. Test That the premium plan is displayed 
+9. Test the cost of the premium plan 
+10. Test the currency of the premium plan
 ## **RUN and CI/CD** :
  
 ## **Locally :**
