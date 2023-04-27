@@ -21,7 +21,7 @@ Test the currency of the premium plan
 ## **Locally :**
  
 **prerequisite**
-1. JAVA jdk 11 or above installed in the system
+1. JAVA jdk 17 or above installed in the system
 2. Maven 3.8.0 or above installed in the system (used maven 3.8.6)
 3. optional intellij IDE
  
